@@ -7,7 +7,7 @@ layout: default
 
 # About
 
-Hey guys, I'm Udit. I was a Summer Research Intern at BITS Goa with professor[Arfat Ahmad Sofi](https://www.bits-pilani.ac.in/goa/arfat-ahmad-sofi/) I hold a Master’s degree in Economics from Shiv Nadar University, India.
+Hey guys, I'm Udit. I was a Summer Research Intern at BITS Goa with [Dr. Arfat Ahmad Sofi](https://www.bits-pilani.ac.in/goa/arfat-ahmad-sofi/) I hold a Master’s degree in Economics from Shiv Nadar University, India.
 
 I like mathematics, programming and cricket.
 
