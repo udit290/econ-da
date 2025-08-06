@@ -5,7 +5,7 @@ title: Internships
 ## Internships
 
 # 1. Summer Research Intern (June 2025 - July 2025)  
-**PIs:** [Dr. Arfat Ahmad Sofi](https://www.bits-pilani.ac.in/goa/arfat-ahmad-sofi/)
+**PI:** [Dr. Arfat Ahmad Sofi](https://www.bits-pilani.ac.in/goa/arfat-ahmad-sofi/)
 
 **Organisation:** [BITS Goa](https://www.bits-pilani.ac.in/goa/)
 
