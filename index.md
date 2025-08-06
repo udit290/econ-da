@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[CV](/assets/UditChauhan-Resume.pdf) <span style="margin-right: 50px;"></span> [Internships](/links/internships.md/) <span style="margin-right: 50px;"></span> [Projects](/links/projects.md/) <span style="margin-right: 50px;"></span> [Teaching](/links/teaching.md/)
+[CV](https://udit290.github.io/portfolio.udit/assets/UditChauhan-Resume.pdf) <span style="margin-right: 50px;"></span> [Internships](/links/internships.md/) <span style="margin-right: 50px;"></span> [Projects](/links/projects.md/) <span style="margin-right: 50px;"></span> [Teaching](/links/teaching.md/)
 
 
 # About
