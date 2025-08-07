@@ -14,6 +14,21 @@ body {
   color: #1c1c1e;
 }
 
+    /* Default styles for larger screens (laptops) */
+    .container {
+        width: 960px;
+        margin: 0 auto;
+    }
+
+    /* Styles for screens smaller than 768px (common breakpoint for tablets/phones) */
+    @media (max-width: 768px) {
+        .container {
+            width: 100%;
+            padding: 0 15px; /* Add some padding for better readability on small screens */
+        }
+        /* Further adjustments for elements like navigation, images, etc. */
+    }
+
 /* Header Styling */
 .header-container {
   display: flex;
