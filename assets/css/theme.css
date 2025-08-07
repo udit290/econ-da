@@ -1,7 +1,7 @@
 /* General Styles */
 body {
   font-family: 'Cormorant Garamond', serif;
-  transition: background-color 0.3s, color: 0.3s;
+  transition: background-color 0.3s, color 0.3s;
 }
 
 .dark-theme {
@@ -31,10 +31,16 @@ body {
 
 /* Header Styling */
 .header-container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.social-links {
+    display: flex;
+    gap: 15px;
+    align-items: center;
 }
 
 .social-links a {
@@ -52,14 +58,13 @@ body {
 }
 
 /* Footer Styling */
-footer {
+.footer {
+  display: none; /* Hide the default theme footer */
+}
+
+.custom-footer {
   text-align: center;
   padding: 20px 0;
   font-size: 0.9em;
   color: inherit;
-}
-
-/* Fix to ensure social links are visible */
-.social-links {
-  display: block !important;
 }
