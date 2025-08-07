@@ -5,7 +5,7 @@ title: Projects
 
 ## Projects
 
-- **Semantic Data Model Creation in Power BI**  
+- **[Semantic Data Model Creation in Power BI](https://github.com/udit290/Projects/blob/3e6cc0fac353b44a98b99310f87da6cbb9ed7dbb/Basic%20Data%20Model.pbix)**  
   Applied data modeling and semantic modeling principles to construct a star schema in Power BI using a fictional yet real-world relevant chocolate company dataset. Transformed raw data into an organized, query-efficient structure, enabling in-depth business analysis and reporting.
 
 - **Empirical Analysis of the EKC Hypothesis for Municipal Solid Waste Across Indian States (Research Paper)**  
