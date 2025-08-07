@@ -3,7 +3,7 @@ logo: /assets/img/headshot.jpeg
 show_downloads: false
 theme: jekyll-theme-minimal
 
-# Your Social Links
+# Your Social Links (for use in the HTML layout)
 social_links:
   github: "https://github.com/udit290"
   linkedin: "https://www.linkedin.com/in/udit-chauhan-94019721a/"
