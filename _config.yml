@@ -2,10 +2,4 @@ title: Udit Chauhan
 logo: /assets/img/headshot.jpeg
 show_downloads: false
 # Theme settings
-theme: jekyll-theme-minimal
-
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+theme: jekyll-theme-architect
