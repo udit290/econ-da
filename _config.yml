@@ -1,5 +1,6 @@
 title: Udit Chauhan
 logo: /assets/img/headshot.jpeg
-description: About
 show_downloads: false
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
