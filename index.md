@@ -13,4 +13,4 @@ I like mathematics, programming and cricket.
 I'm open to opportunities and happy to collaborate on projects. Please feel free to reach out to me at [chauhanudit125@gmail.com](mailto:chauhanudit125@gmail.com).
 
 ### Skills:
-Python | Stata | LaTeX | Power BI | MS Excel 
+Python | Stata | LaTeX | Power BI | MS Excel | Data Modelling
