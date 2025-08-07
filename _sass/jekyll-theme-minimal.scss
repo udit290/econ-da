@@ -2,15 +2,15 @@
 @import "rouge-github";
 
 body {
-  background-color: #1a1a1a;
+  background-color: #1e1e1e;
   padding: 50px;
   font: 24px/1.5 "Cormorant Garamond", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #e0e0e0;
+  color: #d4d4d4;
   font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #ffffff;
+  color: #eee;
   margin: 0 0 20px;
 }
 
@@ -27,15 +27,15 @@ h1 {
 }
 
 h2 {
-  color: #e0e0e0;
+  color: #bbb;
 }
 
 h3, h4, h5, h6 {
-  color: #e0e0e0;
+  color: #ccc;
 }
 
 a {
-  color: #8ab4f8;
+  color: #569cd6;
   text-decoration: none;
 }
 
@@ -45,19 +45,19 @@ a#name {
 }
 
 a:hover, a:focus {
-  color: #c5dcfc;
+  color: #9cdcfe;
   font-weight: bold;
 }
 
 a small {
   font-size: 11px;
-  color: #9e9e9e;
+  color: #9cdcfe;
   margin-top: -0.3em;
   display: block;
 }
 
 a:hover small {
-  color: #9e9e9e;
+  color: #9cdcfe;
 }
 
 .wrapper {
@@ -74,12 +74,12 @@ blockquote {
 
 code, pre {
   font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color: #d19a66; /* This color is good for syntax highlighting */
+  color: #d19a66;
 }
 
 pre {
   padding: 8px 15px;
-  background: #2b2b2b;
+  background: #282c34;
   border-radius: 5px;
   border: 1px solid #444;
   overflow-x: auto;
@@ -97,12 +97,12 @@ th, td {
 }
 
 dt {
-  color: #ffffff;
+  color: #eee;
   font-weight: 700;
 }
 
 th {
-  color: #ffffff;
+  color: #eee;
 }
 
 img {
@@ -120,16 +120,16 @@ ul.downloads {
   list-style: none;
   height: 40px;
   padding: 0;
-  background: #2b2b2b;
+  background: #3b3b3b;
   border-radius: 5px;
-  border: 1px solid #444;
+  border: 1px solid #555;
   width: 270px;
 }
 
 .downloads li {
   width: 89px;
   float: left;
-  border-right: 1px solid #444;
+  border-right: 1px solid #555;
   height: 40px;
 }
 
@@ -144,7 +144,7 @@ ul.downloads {
 .downloads a {
   line-height: 1;
   font-size: 11px;
-  color: #e0e0e0;
+  color: #d4d4d4;
   display: block;
   text-align: center;
   padding-top: 6px;
@@ -152,16 +152,16 @@ ul.downloads {
 }
 
 .downloads a:hover, .downloads a:focus {
-  color: #ffffff;
+  color: #eee;
   font-weight: bold;
 }
 
 .downloads ul a:active {
-  background-color: #3b3b3b;
+  background-color: #424242;
 }
 
 strong {
-  color: #ffffff;
+  color: #eee;
   font-weight: 700;
 }
 
@@ -173,7 +173,7 @@ strong {
 .downloads a strong {
   font-size: 14px;
   display: block;
-  color: #ffffff;
+  color: #eee;
 }
 
 section {
