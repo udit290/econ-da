@@ -1,216 +1,45 @@
-<!-- 
-  This is a clean and modern HTML boilerplate using Tailwind CSS.
-  - The layout is fully responsive, adapting to different screen sizes.
-  - Semantic HTML tags like <header>, <main>, and <footer> are used for a clear structure.
-  - Custom CSS has been added to the head for a theme toggle and specific styling.
--->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Udit Chauhan</title>
-    
-    <!-- Tailwind CSS CDN for a clean, utility-first approach -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    
-    <!-- Custom fonts from Google Fonts and Font Awesome -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-    
-    <style>
-      /* Custom styles from the user's query */
-      body {
-        font-family: 'Cormorant Garamond', serif;
-        transition: background-color 0.3s, color 0.3s;
-      }
+/* General Styles */
+body {
+  font-family: 'Cormorant Garamond', serif;
+  transition: background-color 0.3s, color 0.3s;
+}
 
-      .dark-theme {
-        background-color: #1c1c1e;
-        color: #f1f1f1;
-      }
+.dark-theme {
+  background-color: #1c1c1e;
+  color: #f1f1f1;
+}
 
-      .light-theme {
-        background-color: #ffffff;
-        color: #1c1c1e;
-      }
+.light-theme {
+  background-color: #ffffff;
+  color: #1c1c1e;
+}
 
-      /* Header Styling */
-      .header-container {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding: 20px;
-      }
-      
-      /* Navigation Links */
-      .nav-links a {
-        margin: 0 10px;
-        color: inherit;
-        text-decoration: none;
-        transition: color 0.3s;
-      }
-      .nav-links a:hover {
-        color: #60a5fa; /* A subtle blue on hover */
-      }
+/* Header Styling */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
 
-      .social-links a {
-        margin: 0 10px;
-        color: inherit;
-        text-decoration: none;
-        transition: color 0.3s;
-      }
-      .social-links a:hover {
-        color: #60a5fa; /* A subtle blue on hover */
-      }
+.social-links a {
+  margin: 0 10px;
+  color: inherit;
+  text-decoration: none;
+}
 
-      .theme-toggle-btn {
-        background: none;
-        border: none;
-        cursor: pointer;
-        font-size: 1.2em;
-        color: inherit;
-      }
+.theme-toggle-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2em;
+  color: inherit;
+}
 
-      /* Footer Styling */
-      footer {
-        text-align: center;
-        padding: 20px 0;
-        font-size: 0.9em;
-        color: inherit;
-      }
-    </style>
-</head>
-<body class="light-theme">
-
-    <!-- Main wrapper with padding and a max-w-4xl for readability -->
-    <div class="container mx-auto max-w-4xl px-4 py-8 md:py-16">
-
-        <!-- Header Section -->
-        <header class="header-container flex-col md:flex-row">
-            <div class="text-center md:text-left mb-4 md:mb-0">
-                <h1 class="text-4xl md:text-5xl font-bold mb-2">Udit Chauhan</h1>
-                <p class="text-xl">Software Engineer & Web Developer</p>
-            </div>
-            
-            <div class="flex flex-col md:flex-row items-center md:space-x-8">
-                <!-- Navigation Links -->
-                <nav class="nav-links text-lg font-medium">
-                    <a href="/assets/UditChauhan-Resume.pdf">CV</a>
-                    <a href="/links/internships.md/">Internships</a>
-                    <a href="/links/projects.md/">Projects</a>
-                    <a href="/links/teaching.md/">Teaching</a>
-                </nav>
-                
-                <!-- Social Links -->
-                <div class="social-links mt-4 md:mt-0 flex space-x-6 text-2xl">
-                    <a href="https://github.com/udit290" target="_blank" title="GitHub">
-                        <i class="fab fa-github"></i>
-                    </a>
-                    <a href="https://www.linkedin.com/in/udit-chauhan-94019721a/" target="_blank" title="LinkedIn">
-                        <i class="fab fa-linkedin"></i>
-                    </a>
-                    <a href="mailto:chauhanudit125@gmail.com" title="Email">
-                        <i class="fas fa-envelope"></i>
-                    </a>
-                </div>
-                
-                <!-- Theme Toggle Button -->
-                <button id="theme-toggle" class="theme-toggle-btn mt-4 md:mt-0" title="Toggle theme">
-                    <i class="fas fa-moon"></i>
-                </button>
-            </div>
-        </header>
-
-        <!-- Main Content Section -->
-        <main class="space-y-12 mt-8">
-            
-            <!-- About Me Section -->
-            <section class="bg-white rounded-2xl shadow-lg p-8 dark:bg-gray-800 dark:text-gray-100">
-                <h2 class="text-3xl font-bold mb-4">About</h2>
-                <p class="leading-relaxed mb-4">
-                    Hey guys, I'm Udit. I am pursuing a Master’s degree in Economics from Shiv Nadar University, India. I was a Summer Research Intern at BITS Goa with <a href="https://www.bits-pilani.ac.in/goa/arfat-ahmad-sofi/" target="_blank" class="text-blue-600 hover:underline">Dr. Arfat Ahmad Sofi</a>.
-                </p>
-                <p class="leading-relaxed mb-4">
-                    I like mathematics, programming and cricket.
-                </p>
-                <p class="leading-relaxed">
-                    I'm open to opportunities and happy to collaborate on projects. Please feel free to reach out to me at <a href="mailto:chauhanudit125@gmail.com" class="text-blue-600 hover:underline">chauhanudit125@gmail.com</a>.
-                </p>
-                
-                <h3 class="text-xl font-bold mt-6 mb-2">Skills:</h3>
-                <p class="leading-relaxed">
-                    Python | Stata | LaTeX | Power BI | MS Excel
-                </p>
-            </section>
-            
-            <!-- Projects Section (unchanged) -->
-            <section class="bg-white rounded-2xl shadow-lg p-8 dark:bg-gray-800 dark:text-gray-100">
-                <h2 class="text-3xl font-bold mb-6">Projects</h2>
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-                    <!-- Placeholder Project Card 1 -->
-                    <div class="bg-gray-100 rounded-xl p-6 transition-transform transform hover:scale-105 dark:bg-gray-700">
-                        <h3 class="text-xl font-semibold mb-2">Project Name One</h3>
-                        <p class="text-gray-600 mb-4 dark:text-gray-300">A brief description of the project, highlighting the key technologies and its purpose.</p>
-                        <a href="#" class="text-blue-600 hover:underline font-medium">Learn More &rarr;</a>
-                    </div>
-                    
-                    <!-- Placeholder Project Card 2 -->
-                    <div class="bg-gray-100 rounded-xl p-6 transition-transform transform hover:scale-105 dark:bg-gray-700">
-                        <h3 class="text-xl font-semibold mb-2">Project Name Two</h3>
-                        <p class="text-gray-600 mb-4 dark:text-gray-300">Another great project, showcasing my skills in a different area of web development.</p>
-                        <a href="#" class="text-blue-600 hover:underline font-medium">Learn More &rarr;</a>
-                    </div>
-                </div>
-            </section>
-
-        </main>
-
-    </div>
-
-    <script>
-      // JavaScript for the theme toggle functionality
-      const themeToggleBtn = document.getElementById('theme-toggle');
-      const body = document.body;
-
-      // Check for saved theme in localStorage
-      const savedTheme = localStorage.getItem('theme');
-      if (savedTheme) {
-        body.classList.remove('light-theme', 'dark-theme');
-        body.classList.add(savedTheme);
-      } else {
-        // Set default theme to light if no preference is found
-        body.classList.add('light-theme');
-      }
-
-      // Update the toggle button icon on load
-      const updateThemeIcon = () => {
-        if (body.classList.contains('dark-theme')) {
-          themeToggleBtn.querySelector('i').classList.remove('fa-moon');
-          themeToggleBtn.querySelector('i').classList.add('fa-sun');
-        } else {
-          themeToggleBtn.querySelector('i').classList.remove('fa-sun');
-          themeToggleBtn.querySelector('i').classList.add('fa-moon');
-        }
-      };
-      updateThemeIcon();
-
-      // Event listener for the toggle button
-      themeToggleBtn.addEventListener('click', () => {
-        if (body.classList.contains('light-theme')) {
-          body.classList.remove('light-theme');
-          body.classList.add('dark-theme');
-          localStorage.setItem('theme', 'dark-theme');
-        } else {
-          body.classList.remove('dark-theme');
-          body.classList.add('light-theme');
-          localStorage.setItem('theme', 'light-theme');
-        }
-        updateThemeIcon();
-      });
-    </script>
-
-</body>
-</html>
+/* Footer Styling */
+footer {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 0.9em;
+  color: inherit;
+}
