@@ -17,6 +17,7 @@
   <!--[if lt IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
   <![endif]-->
+  <title>{{ site.title | default: site.github.repository_name }}</title>
 </head>
 <body>
   <div class="wrapper">
@@ -45,7 +46,8 @@
       {{ content }}
     </section>
     <footer>
-    
+      <!-- Optional: Footer content -->
+    </footer>
   </div>
   <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
   {% if site.google_analytics %}
