@@ -1,5 +1,10 @@
 title: Udit Chauhan
 logo: /assets/img/headshot.jpeg
 show_downloads: false
-# Theme settings
 theme: jekyll-theme-minimal
+
+# Your Social Links
+social_links:
+  github: "https://github.com/udit290"
+  linkedin: "https://www.linkedin.com/in/udit-chauhan-94019721a/"
+  email: "mailto:chauhanudit125@gmail.com"
