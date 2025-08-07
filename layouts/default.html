@@ -14,30 +14,27 @@
   
   {% seo %}
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-  <!--[if lt IE 9]>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-  <![endif]-->
-</head>
+  </head>
 <body>
   <div class="wrapper">
     <header>
       <h1><a id="name" href="{{ '/' | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-                    
+                        
       {% if site.logo %}
         <img src="{{ site.logo | relative_url }}" alt="Logo" />
       {% endif %}
 
-   <div class="social-links">
-  {% if site.social_links.github %}
-    <a href="{{ site.social_links.github }}" target="_blank"><i class="fab fa-github"></i> GitHub</a>
-  {% endif %}
-  {% if site.social_links.linkedin %}
-    <a href="{{ site.social_links.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-  {% endif %}
-  {% if site.social_links.email %}
-    <a href="{{ site.social_links.email }}"><i class="fas fa-envelope"></i> Mail</a>
-  {% endif %}
-</div>
+    <div class="social-links">
+      {% if site.social_links.github %}
+        <a href="{{ site.social_links.github }}" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+      {% endif %}
+      {% if site.social_links.linkedin %}
+        <a href="{{ site.social_links.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+      {% endif %}
+      {% if site.social_links.email %}
+        <a href="{{ site.social_links.email }}"><i class="fas fa-envelope"></i> Mail</a>
+      {% endif %}
+    </div>
 
       {% if site.show_downloads %}
       <ul class="downloads">
