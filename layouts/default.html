@@ -17,7 +17,7 @@
   </head>
 <body>
   <div class="wrapper">
-    <header>
+    <header class="header-container">
       <h1><a id="name" href="{{ '/' | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
                         
       {% if site.logo %}
@@ -29,13 +29,6 @@
       <a href="https://www.linkedin.com/in/udit-chauhan-94019721a/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
       <a href="mailto:chauhanudit125@gmail.com"><i class="fas fa-envelope"></i> Mail</a>
     </div>
-
-      {% if site.show_downloads %}
-      <ul class="downloads">
-        <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-        <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-      </ul>
-      {% endif %}
     </header>
     <section>
       {{ content }}
