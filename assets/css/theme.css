@@ -59,7 +59,7 @@ body {
 
 /* Footer Styling */
 .footer {
-  display: none; /* Hide the default theme footer */
+  display: none !important; /* Hide the default theme footer */
 }
 
 .custom-footer {
