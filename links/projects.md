@@ -5,9 +5,6 @@ title: Projects
 
 ## Projects
 
-- **[Semantic Data Model Creation in Power BI](https://github.com/udit290/Projects/blob/3e6cc0fac353b44a98b99310f87da6cbb9ed7dbb/Basic%20Data%20Model.pbix)**  
-  Applied data modeling and semantic modeling principles to construct a star schema in Power BI using a fictional yet real-world relevant chocolate company dataset. Transformed raw data into an organized, query-efficient structure, enabling in-depth business analysis and reporting.
-
 - **[Impact of UPI Adoption on Financial Inclusion](https://github.com/udit290/Projects/blob/a9f248aeb6706d2b33163a7b2af8e68c35cde778/Impact%20of%20UPI%20Adoption%20on%20Financial%20Inclusion.docx)**  
   This paper studies how the rollout of the Unified Payments Interface reshaped formal credit usage across 34 Indian states and union territories from 2012–2024. We construct a continuous treatment measure using average pre-UPI deposits per capita from 2012 to 2015 to capture financial readiness and estimate a heterogeneous difference-in-differences model using credit transactions per capita as the outcome. The results document that UPI led to a statistically significant increase in formal credit activity, with substantially larger impacts in states with deeper pre-existing banking systems. A one-standard-deviation increase in deposit exposure corresponds to roughly a 140 percent rise in post-UPI credit transactions relative to the pre-UPI levels, and event-study tests confirm the absence of differential pre-trends. Overall, UPI amplified existing financial depth by improving digital transaction visibility, suggesting that digital infrastructure is more likely to complement rather than substitute traditional financial development.
   
