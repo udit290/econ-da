@@ -8,7 +8,7 @@
 
 I'm Udit, an Economics postgraduate from Shiv Nadar University with a BA in Economics from the University of Delhi. My interests include **macroeconomics, applied econometrics, and data analysis**.
 
-I currently work as a Research Analyst at the Centre for Economic Future, Shiv Nadar University where I work on macroeconomic forecasting, monetary policy, financial markets, and commodity markets. My work involves quantitative modelling, analysing market and supply-side developments, and translating economic data into research insights.
+I currently work as a Research Analyst at the Centre for Economic Future, Shiv Nadar University where I work on macroeconomic forecasting, monetary policy, financial markets, and commodity markets. My work involves quantitative modelling, analysing market and supply-side developments.
 
 Outside of economics, I enjoy cricket, badminton, and tennis, and I love to eat rajma chawal.
 
