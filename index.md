@@ -14,6 +14,6 @@ Outside of economics, I enjoy cricket, badminton, and tennis, and I have a parti
 
 Feel free to reach me at [udit.chauhan@snu.edu.in](mailto:udit.chauhan@snu.edu.in).
 
-# Skills
+## Skills
 
 STATA | Python | MS Excel | Power BI | LaTeX | Bloomberg Terminal | Datawrapper
