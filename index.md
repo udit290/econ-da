@@ -1,16 +1,19 @@
 ---
-layout: default
----
 
-[CV](/assets/UditChauhan-Resume.pdf) <span style="margin-right: 50px;"></span> [Internships](/links/internships.md/) <span style="margin-right: 50px;"></span> [Research](/links/research.md/) <span style="margin-right: 50px;"></span> [Teaching](/links/teaching.md/)
+## layout: default
+
+[CV](/assets/UditChauhan-Resume.pdf) <span style="margin-right: 50px;"></span> [Research](/links/research.md/) <span style="margin-right: 50px;"></span> [Internships](/links/internships.md/) <span style="margin-right: 50px;"></span> [Teaching](/links/teaching.md/)
 
 # About
 
-Hey, I'm Udit. I am pursuing a Master's degree in Economics from Shiv Nadar University, India. I completed my Bachelor's from the University of Delhi. I was a Summer Research Intern at BITS Goa with [Dr. Arfat Ahmad Sofi](https://www.bits-pilani.ac.in/goa/arfat-ahmad-sofi/).
+I'm Udit, an Economics postgraduate from Shiv Nadar University with a BA in Economics from the University of Delhi. My interests include **macroeconomics, applied econometrics, and data analysis**.
 
-I like mathematics, programming and cricket.
+I currently work as a Research Analyst at the Centre for Economic Future, Shiv Nadar University where I work on macroeconomic forecasting, monetary policy, financial markets, and commodity markets. My work involves quantitative modelling, analysing market and supply-side developments, and translating economic data into research insights.
 
-I'm open to opportunities and happy to collaborate on projects. Please feel free to reach out to me at [chauhanudit125@gmail.com](mailto:chauhanudit125@gmail.com).
+Outside of economics, I enjoy cricket, badminton, and tennis, and I have a particular love for Rajma Chawal.
 
-### Skills:
-Python | Stata | LaTeX | Power BI | MS Excel | Data Modelling
+Feel free to reach me at [udit.chauhan@snu.edu.in](mailto:udit.chauhan@snu.edu.in).
+
+### Skills
+
+STATA | Python | MS Excel | Power BI | LaTeX | Bloomberg Terminal | Datawrapper
