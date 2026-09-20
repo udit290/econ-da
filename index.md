@@ -10,7 +10,7 @@ I'm Udit, an Economics postgraduate from Shiv Nadar University with a BA in Econ
 
 I currently work as a Research Analyst at the Centre for Economic Future, Shiv Nadar University where I work on macroeconomic forecasting, monetary policy, financial markets, and commodity markets. My work involves quantitative modelling, analysing market and supply-side developments, and translating economic data into research insights.
 
-Outside of economics, I enjoy cricket, badminton, and tennis, and I have a particular love for Rajma Chawal.
+Outside of economics, I enjoy cricket, badminton, and tennis, and I love to eat rajma chawal.
 
 Feel free to reach me at [udit.chauhan@snu.edu.in](mailto:udit.chauhan@snu.edu.in).
 
