@@ -9,7 +9,7 @@ title: Teaching
 **Under Graduate Teaching Assistant** for the following courses during my M.Sc. Economics course at Shiv Nadar University, India:
 
 - **ECO367 - International Finance (Undergraduate Course)**  
-  <span style="font-style: italic; color: #555;">Semester: 3</span>  
+  <span style="font-style: italic; color: #555;">Semester: 4</span>  
   <span style="font-style: italic;">Instructor: [Dr. Amrita Ghosh Dastidar](https://www.linkedin.com/in/amrita-ghosh-dastidar-8459531b2/)</span>
   
 - **ECO113 - Introduction to Probability (Undergraduate Course)**  
