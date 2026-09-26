@@ -5,7 +5,7 @@
 
 # Hi, I'm Udit 👋
 
-I'm a Research Analyst at the **Centre for Economic Future, Shiv Nadar University**, working on macroeconomic forecasting, monetary policy, and commodity markets. I have an MSc in Economics from **Shiv Nadar University** and a BA in Economics from the **University of Delhi**.
+I'm a Research Analyst at the **Centre for Economic Future**, working on macroeconomic forecasting, monetary policy, and commodity markets. I have an MSc in Economics from **Shiv Nadar University** and a BA in Economics from the **University of Delhi**.
 
 I'm interested in **macroeconomics, monetary policy, and applied econometrics**.
 
